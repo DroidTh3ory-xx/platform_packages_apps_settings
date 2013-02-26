@@ -47,13 +47,13 @@
 
     <!-- Category headings in left-pane header menu --> <skip />
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
-    <string name="header_category_wireless_networks">E.L.E CONNECTION OPTIONS</string>
+    <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
     <!-- Settings main menu category heading. Device (Sound, display, battery, applications...). [CHAR LIMIT=40] -->
-    <string name="header_category_device">E.L.E DEVICE OPTIONS</string>
+    <string name="header_category_device">DEVICE</string>
     <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
-    <string name="header_category_personal">PERSONAL E.L.E OPTIONS</string>
+    <string name="header_category_personal">PERSONAL</string>
     <!-- Settings main menu category heading. System (Updates, data, accessibility, about phone). [CHAR LIMIT=40] -->
-    <string name="header_category_system">E.L.E SYSTEM OPTIONS</string>
+    <string name="header_category_system">SYSTEM</string>
 
     <!-- Phone info -->
     <!-- Phone Info screen. Button label to turn on the radio . Only shown in diagnostic screen, so precise translation is not needed. -->
@@ -4391,17 +4391,17 @@
 
     <!-- MODIFIER Settings  -->
     <!-- Settings main menu category heading. Interface (Launcher, Profiles, System). [CHAR LIMIT=40] -->
-    <string name="header_category_interface">EXTICTION LEVEL EVENT OPTIONS</string>
+    <string name="header_category_interface">KILLR MODIFIERS</string>
 
     <!-- E.L.EHome settings  -->
-    <string name="launcher_settings_title">ELE Launcher</string>
+    <string name="launcher_settings_title">KILLRHome</string>
     <string name="header_summary_home">Setup Your Launcher</string>
 
     <!-- E.L.E EDITS START -->
 
     <!-- Themes settings  -->
     <string name="themes_settings_title">Theme Chooser</string>
-    <string name="header_summary_themes">Select Additional Themes</string>
+    <string name="header_summary_themes">Get Your Theme On</string>
 
     <string name="ok">OK</string>
 
@@ -4442,10 +4442,10 @@
     <string name="notification_convert_sound_to_vibration_summary">In vibrate mode, all notifications will vibrate regardless of individual app settings</string>
 
     <!-- About phone screen,  setting option name-->
-    <string name="mod_version">E.L.E Device</string>
+    <string name="mod_version">KILLRom Version</string>
     <string name="mod_version_default">Unknown</string>
     <!-- About phone screen, build date of ROM -->
-    <string name="build_date">Event Date</string>
+    <string name="build_date">Date Of Crime</string>
     <string name="build_date_default">2012-01-01-0000</string>
     <!-- About device screen, Cpu info. -->
     <string name="cpu_info">Processor</string>
